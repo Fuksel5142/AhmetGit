@@ -5,6 +5,8 @@ public class fatih {
 
         System.out.println("ahmet de");
 
+        System.out.println("main branch de dğişiklik");
+
 
 
 
